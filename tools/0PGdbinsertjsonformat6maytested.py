@@ -38,11 +38,11 @@ except ImportError:
 # ── DB connection ──────────────────────────────────────────────────────────────
 def get_connection():
     return psycopg2.connect(
-        host     = os.getenv("DB_HOST",     "data-filtration.cuhp98oe4phe.us-west-2.rds.amazonaws.com"),
+        host     = os.getenv("DB_HOST",     "d----b host"),
         port     = int(os.getenv("DB_PORT", "5432")),
-        dbname   = os.getenv("DB_NAME",     "creatorsdata"),
+        dbname   = os.getenv("DB_NAME",     "database"),
         user     = os.getenv("DB_USER",     "postgres"),
-        password = os.getenv("DB_PASSWORD", ")RT<y:}K[~0z3715(9TG"),
+        password = os.getenv("DB_PASSWORD", "passw0rd"),
     )
 
 
