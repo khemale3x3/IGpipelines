@@ -1,0 +1,159 @@
+{
+    "data": {
+        "user": {
+            "friendship_status": {
+                "following": false,
+                "blocking": false,
+                "is_feed_favorite": false,
+                "outgoing_request": false,
+                "followed_by": false,
+                "incoming_request": false,
+                "is_restricted": false,
+                "is_bestie": false,
+                "muting": false,
+                "is_muting_reel": false
+            },
+            "gating": null,
+            "fbid_v2": "17841400635925013",
+            "is_memorialized": false,
+            "is_private": false,
+            "has_story_archive": null,
+            "is_coppa_enforced": null,
+            "supervision_info": null,
+            "is_regulated_c18": false,
+            "regulated_news_in_locations": [],
+            "bio_links": [
+                {
+                    "image_url": "",
+                    "is_pinned": false,
+                    "link_type": "external",
+                    "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fwww.metabolicnutrition.com%2Fdiscount%2FKen10%3Faff%3D846%26utm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnxrmAWtj4gQ2UwXS9eIHREfF9R7j2xRhsns7UUhAsvdJvza-bD1PYqvVctVg_aem_JHLh31pQkyLMkiEJ6gtT0g&e=AUAvde7LJJ68VZfAZwS1XDQEuqZqggEDxGND_ZA4CB9UFFZdQT5R7qo4VozuvvU0rEQFoXiclDOUV1I3Eux2mqjs9vskG4pIEQ_9J9VB5yok0YCGH6v_8Yrfbw",
+                    "media_accent_color_hex": "",
+                    "media_type": "none",
+                    "title": "",
+                    "url": "https://www.metabolicnutrition.com/discount/Ken10?aff=846",
+                    "creation_source": "NONE"
+                },
+                {
+                    "image_url": "",
+                    "is_pinned": false,
+                    "link_type": "external",
+                    "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fbigdansfitness.com%2F%3Fp%3DryydS_6_T%253Fp%253DryydS_6_T%26utm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGns4HcNNoM_ZCf2FrlMjj6dz3yFYCx63F7-dGcULj07vwDw-s4Qrlw7Rbe2OM_aem_xoxFWuiCS9X-7L3DbeB0Rg&e=AUB84Up6dEL5eR6kHkuyyV-KjLtX4VPNCxaoX-3Ymgf--SalMY55oyU8RG7cdjKM9t_3nNgWG15nD58Z-AMZFwnJIE0LUNDCryp9dwDjiJhkHxSG-m1MGnRr3g",
+                    "media_accent_color_hex": "",
+                    "media_type": "none",
+                    "title": "",
+                    "url": "https://bigdansfitness.com/?p=ryydS_6_T%3Fp%3DryydS_6_T",
+                    "creation_source": "NONE"
+                }
+            ],
+            "linked_fb_info": {
+                "linked_fb_page": null,
+                "linked_fb_user": {
+                    "name": "Kenneth Herrera",
+                    "profile_url": "https://www.facebook.com/profile.php?id=100003277818639"
+                }
+            },
+            "text_post_app_badge_label": null,
+            "show_text_post_app_badge": false,
+            "username": "npccompetitorkenneth",
+            "pk": "960853197",
+            "live_broadcast_visibility": null,
+            "live_broadcast_id": null,
+            "profile_pic_url": "https://instagram.fktm7-1.fna.fbcdn.net/v/t51.2885-19/453901445_483466394404133_2133803831681422667_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fktm7-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gFewd-vLKV_G42uu4MjrVXUyR2G5qm08MQyBecISRruGDh-iPjQK-e3eFo5NbYUwIijRVouJGRTzVMseBzJPuDt&_nc_ohc=rS9ifaq1RkMQ7kNvwGGN8QY&_nc_gid=ky4PITIfImCBdU8krNe8cg&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Af46j1KRQMIYn0SV-ZqVX6nOLyBrl2_hNCs0CGyR-t-tHQ&oe=6A015DC5&_nc_sid=7d3ac5",
+            "hd_profile_pic_url_info": {
+                "url": "https://instagram.fktm7-1.fna.fbcdn.net/v/t51.2885-19/453901445_483466394404133_2133803831681422667_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fktm7-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gFewd-vLKV_G42uu4MjrVXUyR2G5qm08MQyBecISRruGDh-iPjQK-e3eFo5NbYUwIijRVouJGRTzVMseBzJPuDt&_nc_ohc=rS9ifaq1RkMQ7kNvwGGN8QY&_nc_gid=ky4PITIfImCBdU8krNe8cg&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Af5izG8Xj46pGRIjKc5WIvqdL8kaVwaRPK2apzwV_ERt_A&oe=6A015DC5&_nc_sid=7d3ac5"
+            },
+            "is_unpublished": false,
+            "latest_reel_media": 1778090077,
+            "has_profile_pic": null,
+            "profile_pic_genai_tool_info": [],
+            "biography": "NPC CP 1xNQ 12xPowerlifting champ. 2025 RPS national champion Army Vet\n@tuffwraps KEN10 @metabolicnutrition Ken20  @squeez_me_skinny Ken10",
+            "full_name": "Kenneth Herrera",
+            "is_verified": false,
+            "show_account_transparency_details": true,
+            "account_type": 3,
+            "follower_count": 12270,
+            "mutual_followers_count": 0,
+            "profile_context_links_with_user_ids": [],
+            "profile_context_facepile_users": [],
+            "address_street": "",
+            "city_name": "",
+            "is_business": false,
+            "zip": "",
+            "biography_with_entities": {
+                "entities": [
+                    {
+                        "hashtag": null,
+                        "user": {
+                            "username": "metabolicnutrition",
+                            "id": "54987295434"
+                        }
+                    },
+                    {
+                        "hashtag": null,
+                        "user": {
+                            "username": "squeez_me_skinny",
+                            "id": "4061048580"
+                        }
+                    },
+                    {
+                        "hashtag": null,
+                        "user": {
+                            "username": "tuffwraps",
+                            "id": "1554404053"
+                        }
+                    }
+                ]
+            },
+            "category": "",
+            "should_show_category": false,
+            "aigm_account_label_info": null,
+            "is_ring_creator": false,
+            "show_ring_award": false,
+            "ring_creator_metadata": {
+                "profile_background_color": null
+            },
+            "account_badges": [],
+            "ai_agent_type": null,
+            "external_lynx_url": null,
+            "external_url": "",
+            "pronouns": [],
+            "transparency_label": null,
+            "transparency_product": null,
+            "hide_creator_marketplace_badge": false,
+            "id": "960853197",
+            "has_chaining": true,
+            "remove_message_entrypoint": false,
+            "is_embeds_disabled": false,
+            "is_cannes": false,
+            "is_professional_account": null,
+            "following_count": 4653,
+            "media_count": 3412,
+            "total_clips_count": 1,
+            "has_visible_media_notes": true,
+            "latest_besties_reel_media": 0,
+            "reel_media_seen_timestamp": null
+        },
+        "viewer": {
+            "user": {
+                "pk": "22615843742",
+                "id": "22615843742",
+                "can_see_organic_insights": false,
+                "supervision_info": {
+                    "is_guardian_user": false,
+                    "is_feta_guardian_user": false,
+                    "guardian_hypercard_content": null,
+                    "id": "XDTSupervisionInfo:22615843742"
+                }
+            }
+        }
+    },
+    "extensions": {
+        "is_final": true,
+        "server_metadata": {
+            "request_start_time_ms": 1778095183070,
+            "time_at_flush_ms": 1778095183368
+        }
+    },
+    "status": "ok"
+}

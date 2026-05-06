@@ -1,0 +1,142 @@
+{
+    "data": {
+        "user": {
+            "friendship_status": {
+                "following": false,
+                "blocking": false,
+                "is_feed_favorite": false,
+                "outgoing_request": false,
+                "followed_by": false,
+                "incoming_request": false,
+                "is_restricted": false,
+                "is_bestie": false,
+                "muting": false,
+                "is_muting_reel": false
+            },
+            "gating": null,
+            "fbid_v2": "17841401135112976",
+            "is_memorialized": false,
+            "is_private": false,
+            "has_story_archive": null,
+            "is_coppa_enforced": null,
+            "supervision_info": null,
+            "is_regulated_c18": false,
+            "regulated_news_in_locations": [],
+            "bio_links": [
+                {
+                    "image_url": "",
+                    "is_pinned": false,
+                    "link_type": "external",
+                    "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2FCaliDubb%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnwN2lV4jMQtdyZXuG7CD7migSfd5eMvc0h8Db28UNVlpSEfb2sAf_2b7c8_w_aem_B2Vk2EpPS0sQWy-5TJP9NQ&e=AUCNbOP8x0LpicyTnShfnWzgpT0NrZPH9TGF219uxCfM3JaQs8S1nGhdNcUZwPnV4BsRaQZqT4uJ9zDU9h9VVfQWgOzVsNNKogeP1tbO8g",
+                    "media_accent_color_hex": "",
+                    "media_type": "none",
+                    "title": "",
+                    "url": "https://linktr.ee/CaliDubb",
+                    "creation_source": "NONE"
+                },
+                {
+                    "image_url": "",
+                    "is_pinned": false,
+                    "link_type": "external",
+                    "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fyoutu.be%2FQWa2Is2hSCM%3Fsi%3DaBleQjLp00TWGZJr%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnAYUabNQ0NXu5iUTExwrCLFFMUjUJEb4ANJeAoGNE64xL80_Lj6IZ1Wxvtx0_aem_tHlCeBhR1vG9XKnOYi6vRQ&e=AUCmPgg2d9WljQX9bGq_jtAjptww-fTczPjTDHyqj6nZsT8Ox2t9G6-ySIafVDdeqWGDwKTC0IOYTuyH9rau3BN08y8eKNiP5vuri2YsKQ",
+                    "media_accent_color_hex": "",
+                    "media_type": "none",
+                    "title": "What is life (Official Video)",
+                    "url": "https://youtu.be/QWa2Is2hSCM?si=aBleQjLp00TWGZJr",
+                    "creation_source": "NONE"
+                },
+                {
+                    "image_url": "",
+                    "is_pinned": false,
+                    "link_type": "external",
+                    "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fget.aspr.app%2FSH1dnP%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnPIUhlC3g6S8v9YrtEsMFlu2tokwAIxYyUXCAMxTYkke1vMwao9Ieh7RFd7I_aem_juJremGcfi9fjGWevZBeYg&e=AUAZIc5oXRFM59IpsI1jeStLREQF1oTEXjIlAuGfUQ6oxDp5Lv3RIOJ5_m1bsMrNlDZAQ4ffRzKlavA66ELEBor0NxL_QtKCLud6AzpLZA",
+                    "media_accent_color_hex": "",
+                    "media_type": "none",
+                    "title": "Ryze Mushroom Coffee",
+                    "url": "https://get.aspr.app/SH1dnP",
+                    "creation_source": "NONE"
+                }
+            ],
+            "linked_fb_info": null,
+            "text_post_app_badge_label": null,
+            "show_text_post_app_badge": false,
+            "username": "calidubb_c.o.d",
+            "pk": "190501837",
+            "live_broadcast_visibility": null,
+            "live_broadcast_id": null,
+            "profile_pic_url": "https://instagram.fktm7-1.fna.fbcdn.net/v/t51.2885-19/412161257_873014107947227_2157236418207258629_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fktm7-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFO6ozkJIvcQEycX7OUS2Y-3YeymvKkWHWJmajN-HUbwuiu-_U8RJyvT2IY87-a6AM&_nc_ohc=S2ZXSLGLa9UQ7kNvwHYyJQ0&_nc_gid=bxCSNFGj0diSRlyqYK8aZg&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Af4hqiDDRKZmDkC6GAzTyAnNdBXjhfxXE07trz2YwHg3rQ&oe=6A0161E6&_nc_sid=7d3ac5",
+            "hd_profile_pic_url_info": {
+                "url": "https://instagram.fktm7-1.fna.fbcdn.net/v/t51.2885-19/412161257_873014107947227_2157236418207258629_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fktm7-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFO6ozkJIvcQEycX7OUS2Y-3YeymvKkWHWJmajN-HUbwuiu-_U8RJyvT2IY87-a6AM&_nc_ohc=S2ZXSLGLa9UQ7kNvwHYyJQ0&_nc_gid=bxCSNFGj0diSRlyqYK8aZg&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Af46SZ6t25qNbAdqP41Vy-YUQOOsBsfvZy6d6rZTNTuFag&oe=6A0161E6&_nc_sid=7d3ac5"
+            },
+            "is_unpublished": false,
+            "latest_reel_media": 1778058719,
+            "has_profile_pic": null,
+            "profile_pic_genai_tool_info": [],
+            "biography": "Cali Dubb \u201cThe Influence\u201d (life, fitness + health Coach) follower of Christ \ud83d\ude4f\ud83c\udffd",
+            "full_name": "Cali Dubb",
+            "is_verified": true,
+            "show_account_transparency_details": true,
+            "account_type": 2,
+            "follower_count": 18603,
+            "mutual_followers_count": 0,
+            "profile_context_links_with_user_ids": [],
+            "profile_context_facepile_users": [],
+            "address_street": "",
+            "city_name": "",
+            "is_business": true,
+            "zip": "",
+            "biography_with_entities": {
+                "entities": []
+            },
+            "category": "Artist",
+            "should_show_category": true,
+            "aigm_account_label_info": null,
+            "is_ring_creator": false,
+            "show_ring_award": false,
+            "ring_creator_metadata": {
+                "profile_background_color": null
+            },
+            "account_badges": [],
+            "ai_agent_type": null,
+            "external_lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2FCaliDubb%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnVg5cB6-Wvma0ybrqMBP73PvKsDPp37eI9lZf-VUp62YvjlzbH6oUcM7JIps_aem_seDt79H10z7YZCq3MI5upQ&e=AUA7EPbIVjH47vhi-nw08W6G9TSbtO6e0M5dfUjNFkwz5tg64ev-xfh8He_k7x1W9fmDyl4qN0SNrkX_1u4-J7WiKVJKX7VJPTtw31aprg",
+            "external_url": "https://linktr.ee/CaliDubb",
+            "pronouns": [],
+            "transparency_label": null,
+            "transparency_product": null,
+            "hide_creator_marketplace_badge": false,
+            "id": "190501837",
+            "has_chaining": true,
+            "remove_message_entrypoint": false,
+            "is_embeds_disabled": false,
+            "is_cannes": false,
+            "is_professional_account": null,
+            "following_count": 2088,
+            "media_count": 92,
+            "total_clips_count": 1,
+            "has_visible_media_notes": true,
+            "latest_besties_reel_media": 0,
+            "reel_media_seen_timestamp": null
+        },
+        "viewer": {
+            "user": {
+                "pk": "78639983601",
+                "id": "78639983601",
+                "can_see_organic_insights": false,
+                "supervision_info": {
+                    "is_guardian_user": false,
+                    "is_feta_guardian_user": false,
+                    "guardian_hypercard_content": null,
+                    "id": "XDTSupervisionInfo:78639983601"
+                }
+            }
+        }
+    },
+    "extensions": {
+        "is_final": true,
+        "server_metadata": {
+            "request_start_time_ms": 1778095032380,
+            "time_at_flush_ms": 1778095033406
+        }
+    },
+    "status": "ok"
+}

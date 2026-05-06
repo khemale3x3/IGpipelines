@@ -1,0 +1,114 @@
+{
+    "data": {
+        "user": {
+            "friendship_status": {
+                "following": false,
+                "blocking": false,
+                "is_feed_favorite": false,
+                "outgoing_request": false,
+                "followed_by": false,
+                "incoming_request": false,
+                "is_restricted": false,
+                "is_bestie": false,
+                "muting": false,
+                "is_muting_reel": false
+            },
+            "gating": null,
+            "fbid_v2": "17841400778410489",
+            "is_memorialized": false,
+            "is_private": false,
+            "has_story_archive": null,
+            "is_coppa_enforced": null,
+            "supervision_info": null,
+            "is_regulated_c18": false,
+            "regulated_news_in_locations": [],
+            "bio_links": [],
+            "linked_fb_info": {
+                "linked_fb_page": null,
+                "linked_fb_user": {
+                    "name": "Nick Lotierzo",
+                    "profile_url": "https://www.facebook.com/profile.php?id=632031957"
+                }
+            },
+            "text_post_app_badge_label": "lotierzo_fitness",
+            "show_text_post_app_badge": true,
+            "username": "lotierzo_fitness",
+            "pk": "31321947",
+            "live_broadcast_visibility": null,
+            "live_broadcast_id": null,
+            "profile_pic_url": "https://instagram.fktm7-1.fna.fbcdn.net/v/t51.82787-19/580755384_18547681087025948_4700472548790119840_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMxIn0&_nc_ht=instagram.fktm7-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2gE2MEgKdwmcgSpAapniR9p-EdBRhnKDw-ux2fBCiejKM7pMSNe0F8_08iftCmV5nRA&_nc_ohc=JF3ZgJFjD7AQ7kNvwGYh8sU&_nc_gid=bfcMIx6H6lQDhUsZB5NDwg&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Af5wzwWPNUDGlPFG2lULMQlgrOUJyyRO7XLdqNuG2ML4pQ&oe=6A017036&_nc_sid=7d3ac5",
+            "hd_profile_pic_url_info": {
+                "url": "https://instagram.fktm7-1.fna.fbcdn.net/v/t51.82787-19/580755384_18547681087025948_4700472548790119840_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMxIn0&_nc_ht=instagram.fktm7-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2gE2MEgKdwmcgSpAapniR9p-EdBRhnKDw-ux2fBCiejKM7pMSNe0F8_08iftCmV5nRA&_nc_ohc=JF3ZgJFjD7AQ7kNvwGYh8sU&_nc_gid=bfcMIx6H6lQDhUsZB5NDwg&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Af7SCsQ3oJyJVfV8InwoGcMD5fNsz4AU1t5VMrkENrE1nw&oe=6A017036&_nc_sid=7d3ac5"
+            },
+            "is_unpublished": false,
+            "latest_reel_media": 1778094270,
+            "has_profile_pic": null,
+            "profile_pic_genai_tool_info": [],
+            "biography": "\u26d3\ufe0f Pronouns \u201cStrong AF\u201d\n\u26d3\ufe0f \ud83d\udea7\u1d04\u1d0f\u1d0d\u026a\u0274\u0262 s\u1d0f\u1d0f\u0274 \ud83d\udea7\n\u26d3\ufe0f \u0299\u026a\u0262 \u029f\u026a\u0493\u1d1bs? \u1d04\u029c\u1d07\u1d04\u1d0b \u1d0d\u028f \u1d04\u026a\u0280\u1d04\u029f\u1d07s \ud83d\udc47",
+            "full_name": "\ud835\udde1\ud835\uddf6\ud835\uddf0\ud835\uddf5\ud835\uddfc\ud835\uddf9\ud835\uddee\ud835\ude00 \ud835\udddf\ud835\uddfc\ud835\ude01\ud835\uddf6\ud835\uddf2\ud835\uddff\ud835\ude07\ud835\uddfc",
+            "is_verified": true,
+            "show_account_transparency_details": true,
+            "account_type": 3,
+            "follower_count": 20032,
+            "mutual_followers_count": 0,
+            "profile_context_links_with_user_ids": [],
+            "profile_context_facepile_users": [],
+            "address_street": "",
+            "city_name": "",
+            "is_business": false,
+            "zip": "",
+            "biography_with_entities": {
+                "entities": []
+            },
+            "category": "Entrepreneur",
+            "should_show_category": true,
+            "aigm_account_label_info": null,
+            "is_ring_creator": false,
+            "show_ring_award": false,
+            "ring_creator_metadata": {
+                "profile_background_color": null
+            },
+            "account_badges": [],
+            "ai_agent_type": null,
+            "external_lynx_url": null,
+            "external_url": "",
+            "pronouns": [],
+            "transparency_label": null,
+            "transparency_product": null,
+            "hide_creator_marketplace_badge": false,
+            "id": "31321947",
+            "has_chaining": true,
+            "remove_message_entrypoint": false,
+            "is_embeds_disabled": false,
+            "is_cannes": false,
+            "is_professional_account": null,
+            "following_count": 3708,
+            "media_count": 717,
+            "total_clips_count": 1,
+            "has_visible_media_notes": true,
+            "latest_besties_reel_media": 0,
+            "reel_media_seen_timestamp": null
+        },
+        "viewer": {
+            "user": {
+                "pk": "22615843742",
+                "id": "22615843742",
+                "can_see_organic_insights": false,
+                "supervision_info": {
+                    "is_guardian_user": false,
+                    "is_feta_guardian_user": false,
+                    "guardian_hypercard_content": null,
+                    "id": "XDTSupervisionInfo:22615843742"
+                }
+            }
+        }
+    },
+    "extensions": {
+        "is_final": true,
+        "server_metadata": {
+            "request_start_time_ms": 1778094678539,
+            "time_at_flush_ms": 1778094679031
+        }
+    },
+    "status": "ok"
+}

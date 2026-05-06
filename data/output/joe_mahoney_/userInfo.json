@@ -1,0 +1,108 @@
+{
+    "data": {
+        "user": {
+            "friendship_status": {
+                "following": false,
+                "blocking": false,
+                "is_feed_favorite": false,
+                "outgoing_request": false,
+                "followed_by": false,
+                "incoming_request": false,
+                "is_restricted": false,
+                "is_bestie": false,
+                "muting": false,
+                "is_muting_reel": false
+            },
+            "gating": null,
+            "fbid_v2": "17841448678781693",
+            "is_memorialized": false,
+            "is_private": false,
+            "has_story_archive": null,
+            "is_coppa_enforced": null,
+            "supervision_info": null,
+            "is_regulated_c18": false,
+            "regulated_news_in_locations": [],
+            "bio_links": [],
+            "linked_fb_info": null,
+            "text_post_app_badge_label": "joe_mahoney_",
+            "show_text_post_app_badge": false,
+            "username": "joe_mahoney_",
+            "pk": "48493550626",
+            "live_broadcast_visibility": null,
+            "live_broadcast_id": null,
+            "profile_pic_url": "https://instagram.fktm10-1.fna.fbcdn.net/v/t51.82787-19/535436487_18058351583622627_2679635822367550953_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MjMuYzIifQ&_nc_ht=instagram.fktm10-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gF-uOhb0JiHEtG06K2gdHaF8XkepNmkDMznWd-OpYGp-apt-rabPqyrYb1L_0GUgNoAR3qOlc7qowr9Zk0QA2Gu&_nc_ohc=rOADjKCudYMQ7kNvwFx9wtU&_nc_gid=QqUrstecIUIU_J_AggM_Og&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Af7s6HhbIWhQ4goven92LoCfeYsXJee7Y0o6MKMpjAjz5Q&oe=6A0159B0&_nc_sid=7d3ac5",
+            "hd_profile_pic_url_info": {
+                "url": "https://instagram.fktm10-1.fna.fbcdn.net/v/t51.82787-19/535436487_18058351583622627_2679635822367550953_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MjMuYzIifQ&_nc_ht=instagram.fktm10-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gF-uOhb0JiHEtG06K2gdHaF8XkepNmkDMznWd-OpYGp-apt-rabPqyrYb1L_0GUgNoAR3qOlc7qowr9Zk0QA2Gu&_nc_ohc=rOADjKCudYMQ7kNvwFx9wtU&_nc_gid=QqUrstecIUIU_J_AggM_Og&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Af5E-QYz6q-0I7NEncE1dGNlXkcIRU_5-pjV_ux8xhHYgg&oe=6A0159B0&_nc_sid=7d3ac5"
+            },
+            "is_unpublished": false,
+            "latest_reel_media": 0,
+            "has_profile_pic": null,
+            "profile_pic_genai_tool_info": [],
+            "biography": "\ud83c\udf32\ud83c\udff4\u200d\u2620\ufe0f\ud835\udddb\ud835\uddd4\ud835\udde5\ud835\uddd7 \ud835\udddc\ud835\udde1 \ud835\udde7\ud835\udddb\ud835\uddd8 \ud835\uddec\ud835\uddd4\ud835\udde5\ud835\uddd7\ud83c\udff4\u200d\u2620\ufe0f\ud83c\udf32\n\ud83d\udc17Take Your Strength Back\ud83d\udc17",
+            "full_name": "Joe Mahoney | Home Gym Strength",
+            "is_verified": false,
+            "show_account_transparency_details": true,
+            "account_type": 3,
+            "follower_count": 21716,
+            "mutual_followers_count": 0,
+            "profile_context_links_with_user_ids": [],
+            "profile_context_facepile_users": [],
+            "address_street": "",
+            "city_name": "",
+            "is_business": false,
+            "zip": "",
+            "biography_with_entities": {
+                "entities": []
+            },
+            "category": "",
+            "should_show_category": false,
+            "aigm_account_label_info": null,
+            "is_ring_creator": false,
+            "show_ring_award": false,
+            "ring_creator_metadata": {
+                "profile_background_color": null
+            },
+            "account_badges": [],
+            "ai_agent_type": null,
+            "external_lynx_url": null,
+            "external_url": "",
+            "pronouns": [],
+            "transparency_label": null,
+            "transparency_product": null,
+            "hide_creator_marketplace_badge": false,
+            "id": "48493550626",
+            "has_chaining": true,
+            "remove_message_entrypoint": false,
+            "is_embeds_disabled": false,
+            "is_cannes": false,
+            "is_professional_account": null,
+            "following_count": 233,
+            "media_count": 410,
+            "total_clips_count": 1,
+            "has_visible_media_notes": false,
+            "latest_besties_reel_media": 0,
+            "reel_media_seen_timestamp": null
+        },
+        "viewer": {
+            "user": {
+                "pk": "79094843931",
+                "id": "79094843931",
+                "can_see_organic_insights": false,
+                "supervision_info": {
+                    "is_guardian_user": false,
+                    "is_feta_guardian_user": false,
+                    "guardian_hypercard_content": null,
+                    "id": "XDTSupervisionInfo:79094843931"
+                }
+            }
+        }
+    },
+    "extensions": {
+        "is_final": true,
+        "server_metadata": {
+            "request_start_time_ms": 1778094653419,
+            "time_at_flush_ms": 1778094653678
+        }
+    },
+    "status": "ok"
+}

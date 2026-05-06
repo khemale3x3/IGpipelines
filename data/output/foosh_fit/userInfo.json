@@ -1,0 +1,119 @@
+{
+    "data": {
+        "user": {
+            "friendship_status": {
+                "following": false,
+                "blocking": false,
+                "is_feed_favorite": false,
+                "outgoing_request": false,
+                "followed_by": false,
+                "incoming_request": false,
+                "is_restricted": false,
+                "is_bestie": false,
+                "muting": false,
+                "is_muting_reel": false
+            },
+            "gating": null,
+            "fbid_v2": "17841406088625106",
+            "is_memorialized": false,
+            "is_private": false,
+            "has_story_archive": null,
+            "is_coppa_enforced": null,
+            "supervision_info": null,
+            "is_regulated_c18": false,
+            "regulated_news_in_locations": [],
+            "bio_links": [
+                {
+                    "image_url": "",
+                    "is_pinned": false,
+                    "link_type": "external",
+                    "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Ffoosh_fit%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGn7T8cuIOTxnpBs2Cim4ngM_6h89BMDBj00Xi8JCKEUT5zSSlpAyXE-yM1vKc_aem_SfhhriTlMcPIWmB8WRuztg&e=AUAhdtEX0jgvuC9jFuVXES6PjMWXv7ruoej9-q-zNHjKM5VEcqnmLWD5c3OACNxWWb-HJLqpQW7QRKkajtLoozIUZR9d-FWLpJqM0z8FnQv1TPVP_MFwhHKkXA",
+                    "media_accent_color_hex": "",
+                    "media_type": "none",
+                    "title": "Link Tree",
+                    "url": "https://linktr.ee/foosh_fit",
+                    "creation_source": "NONE"
+                }
+            ],
+            "linked_fb_info": null,
+            "text_post_app_badge_label": "foosh_fit",
+            "show_text_post_app_badge": false,
+            "username": "foosh_fit",
+            "pk": "6040850954",
+            "live_broadcast_visibility": null,
+            "live_broadcast_id": null,
+            "profile_pic_url": "https://instagram.fktm10-1.fna.fbcdn.net/v/t51.82787-19/630096999_18357281227202955_8340281149309584452_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=instagram.fktm10-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gGntpzC1MuJ64mUp2a0WG7de7XsbQX58qOq5cHKiyPo06Qv34fksXN814Q7kltD88fxyBcrg1qpuplLUgV_rKJs&_nc_ohc=MQcT4U4XPcMQ7kNvwGL80Oj&_nc_gid=RC7fcsJuP54R998jwJThmQ&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Af7I8BB_HFLfRUFMfBTzad1iv5W40GllBkl7a1JSPAfXEg&oe=6A014A23&_nc_sid=7d3ac5",
+            "hd_profile_pic_url_info": {
+                "url": "https://instagram.fktm10-1.fna.fbcdn.net/v/t51.82787-19/630096999_18357281227202955_8340281149309584452_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=instagram.fktm10-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gGntpzC1MuJ64mUp2a0WG7de7XsbQX58qOq5cHKiyPo06Qv34fksXN814Q7kltD88fxyBcrg1qpuplLUgV_rKJs&_nc_ohc=MQcT4U4XPcMQ7kNvwGL80Oj&_nc_gid=RC7fcsJuP54R998jwJThmQ&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Af4sCxD6efqKBpGws0yZvQob2OTwOtRvttP5eBYMAdsmuw&oe=6A014A23&_nc_sid=7d3ac5"
+            },
+            "is_unpublished": false,
+            "latest_reel_media": 1778077784,
+            "has_profile_pic": null,
+            "profile_pic_genai_tool_info": [],
+            "biography": "Helping Busy Dads Get Strong Again\n\ud83c\udfc6 100s of Clients Back in Shape\u2028\ud83d\udcaa\ud83c\udffc 10+ Years Coaching Experience\u2028\ud83d\udc47\ud83c\udffc Join The Strong Dad Community (Free Support)",
+            "full_name": "John Fuschetto | Fitness Coach",
+            "is_verified": false,
+            "show_account_transparency_details": true,
+            "account_type": 3,
+            "follower_count": 12503,
+            "mutual_followers_count": 0,
+            "profile_context_links_with_user_ids": [],
+            "profile_context_facepile_users": [],
+            "address_street": "",
+            "city_name": "",
+            "is_business": false,
+            "zip": "",
+            "biography_with_entities": {
+                "entities": []
+            },
+            "category": "",
+            "should_show_category": false,
+            "aigm_account_label_info": null,
+            "is_ring_creator": false,
+            "show_ring_award": false,
+            "ring_creator_metadata": {
+                "profile_background_color": null
+            },
+            "account_badges": [],
+            "ai_agent_type": null,
+            "external_lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Ffoosh_fit%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnsJyNzQBT1a4RCUr8neRgeS-0DWJSD_rJZeObhtK2wth_xy8B2XHz99nr6P8_aem_JZCoNPo-yqQW1Vnvu9-HEw&e=AUBYNaImX-xbELXEH8nkbEb2G8bUhMH2YwHRbQhX-zvAiXzSLrO4CDAgt69dJSJAYryF7oQIYBZ5iUINOcxyjfZnmzVsoBVTlEMhUCBcBY21208QPf0MwEb7Hw",
+            "external_url": "https://linktr.ee/foosh_fit",
+            "pronouns": [],
+            "transparency_label": null,
+            "transparency_product": null,
+            "hide_creator_marketplace_badge": false,
+            "id": "6040850954",
+            "has_chaining": true,
+            "remove_message_entrypoint": false,
+            "is_embeds_disabled": false,
+            "is_cannes": false,
+            "is_professional_account": null,
+            "following_count": 4624,
+            "media_count": 1233,
+            "total_clips_count": 1,
+            "latest_besties_reel_media": 0,
+            "reel_media_seen_timestamp": null
+        },
+        "viewer": {
+            "user": {
+                "pk": "28773838988",
+                "id": "28773838988",
+                "can_see_organic_insights": false,
+                "supervision_info": {
+                    "is_guardian_user": false,
+                    "is_feta_guardian_user": false,
+                    "guardian_hypercard_content": null,
+                    "id": "XDTSupervisionInfo:28773838988"
+                }
+            }
+        }
+    },
+    "extensions": {
+        "is_final": true,
+        "server_metadata": {
+            "request_start_time_ms": 1778094708232,
+            "time_at_flush_ms": 1778094708573
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,108 @@
+{
+    "data": {
+        "user": {
+            "friendship_status": {
+                "following": false,
+                "blocking": false,
+                "is_feed_favorite": false,
+                "outgoing_request": false,
+                "followed_by": false,
+                "incoming_request": false,
+                "is_restricted": false,
+                "is_bestie": false,
+                "muting": false,
+                "is_muting_reel": false
+            },
+            "gating": null,
+            "fbid_v2": "17841406902168641",
+            "is_memorialized": false,
+            "is_private": false,
+            "has_story_archive": null,
+            "is_coppa_enforced": null,
+            "supervision_info": null,
+            "is_regulated_c18": false,
+            "regulated_news_in_locations": [],
+            "bio_links": [],
+            "linked_fb_info": null,
+            "text_post_app_badge_label": "fluffygotold",
+            "show_text_post_app_badge": true,
+            "username": "fluffygotold",
+            "pk": "6789134072",
+            "live_broadcast_visibility": null,
+            "live_broadcast_id": null,
+            "profile_pic_url": "https://instagram.fktm7-1.fna.fbcdn.net/v/t51.2885-19/455696006_1033040951562636_25216102397348772_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fktm7-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gGvJF30YLRgkTRWu3kH0sBq9fWXmkMNeEQWtnCBkbw_k7xhC1tpQf0wPZL6nGGDPDGKDwohRPxu4rkkUjyh21wT&_nc_ohc=GBlqoho9Q4YQ7kNvwE8i_BB&_nc_gid=UivoHIrn9UVsX-NlQiZKTw&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Af4c150zQMA2hnnRlLSSShE1Mnnyz1ph2bpcQqE2qmdckw&oe=6A014BEC&_nc_sid=7d3ac5",
+            "hd_profile_pic_url_info": {
+                "url": "https://instagram.fktm7-1.fna.fbcdn.net/v/t51.2885-19/455696006_1033040951562636_25216102397348772_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fktm7-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gGvJF30YLRgkTRWu3kH0sBq9fWXmkMNeEQWtnCBkbw_k7xhC1tpQf0wPZL6nGGDPDGKDwohRPxu4rkkUjyh21wT&_nc_ohc=GBlqoho9Q4YQ7kNvwE8i_BB&_nc_gid=UivoHIrn9UVsX-NlQiZKTw&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Af5gIQ-kd1XAFbwa_Z3hKgGq1mPsc8WYYO8MQDbwOHNDAA&oe=6A014BEC&_nc_sid=7d3ac5"
+            },
+            "is_unpublished": false,
+            "latest_reel_media": 1778068978,
+            "has_profile_pic": null,
+            "profile_pic_genai_tool_info": [],
+            "biography": "\ud83d\ude4c\ud83c\udfff Problematic 80s baby\n\ud83e\uddd0 Autistic Fitness Coach\n\u2696\ufe0f Lost 250 lbs | CPT\n\u2764\ufe0f\u200d\ud83e\ude79 Heart attack survivor  \n\ud83c\udfcb\ufe0f\u200d\u2642\ufe0f The loose skin king \ud83d\udc51",
+            "full_name": "Levi Garrett | The Elder Millennial",
+            "is_verified": true,
+            "show_account_transparency_details": true,
+            "account_type": 3,
+            "follower_count": 10968,
+            "mutual_followers_count": 0,
+            "profile_context_links_with_user_ids": [],
+            "profile_context_facepile_users": [],
+            "address_street": "",
+            "city_name": "",
+            "is_business": false,
+            "zip": "",
+            "biography_with_entities": {
+                "entities": []
+            },
+            "category": "Weight Loss Center",
+            "should_show_category": true,
+            "aigm_account_label_info": null,
+            "is_ring_creator": false,
+            "show_ring_award": false,
+            "ring_creator_metadata": {
+                "profile_background_color": null
+            },
+            "account_badges": [],
+            "ai_agent_type": null,
+            "external_lynx_url": null,
+            "external_url": "",
+            "pronouns": [],
+            "transparency_label": null,
+            "transparency_product": null,
+            "hide_creator_marketplace_badge": false,
+            "id": "6789134072",
+            "has_chaining": true,
+            "remove_message_entrypoint": false,
+            "is_embeds_disabled": false,
+            "is_cannes": false,
+            "is_professional_account": null,
+            "following_count": 2277,
+            "media_count": 768,
+            "total_clips_count": 1,
+            "has_visible_media_notes": true,
+            "latest_besties_reel_media": 0,
+            "reel_media_seen_timestamp": null
+        },
+        "viewer": {
+            "user": {
+                "pk": "78639983601",
+                "id": "78639983601",
+                "can_see_organic_insights": false,
+                "supervision_info": {
+                    "is_guardian_user": false,
+                    "is_feta_guardian_user": false,
+                    "guardian_hypercard_content": null,
+                    "id": "XDTSupervisionInfo:78639983601"
+                }
+            }
+        }
+    },
+    "extensions": {
+        "is_final": true,
+        "server_metadata": {
+            "request_start_time_ms": 1778094735709,
+            "time_at_flush_ms": 1778094736543
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,119 @@
+{
+    "data": {
+        "user": {
+            "friendship_status": {
+                "following": false,
+                "blocking": false,
+                "is_feed_favorite": false,
+                "outgoing_request": false,
+                "followed_by": false,
+                "incoming_request": false,
+                "is_restricted": false,
+                "is_bestie": false,
+                "muting": false,
+                "is_muting_reel": false
+            },
+            "gating": null,
+            "fbid_v2": "17841405768399429",
+            "is_memorialized": false,
+            "is_private": false,
+            "has_story_archive": null,
+            "is_coppa_enforced": null,
+            "supervision_info": null,
+            "is_regulated_c18": false,
+            "regulated_news_in_locations": [],
+            "bio_links": [
+                {
+                    "image_url": "",
+                    "is_pinned": false,
+                    "link_type": "external",
+                    "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fnee_aesthetics%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGn7VaQBmR65vsGOxHOljkGisoZXyx9h8G4IeHO1TtEEcdon6rd53LT3kf3ieU_aem_Ls32T1ltdiWD88n0mOP9PQ&e=AUDjjTmDENYHipqvhtugBdCf2tFY2HGk6fTKvoqI31tqrH7CNxm7gffqTJXqxSI6CslMYmf6W2oaRSreNXNqM7GDXd-wBxMSB0zc6amZow",
+                    "media_accent_color_hex": "",
+                    "media_type": "none",
+                    "title": "",
+                    "url": "https://linktr.ee/nee_aesthetics",
+                    "creation_source": "NONE"
+                }
+            ],
+            "linked_fb_info": null,
+            "text_post_app_badge_label": "nee_aesthetics",
+            "show_text_post_app_badge": true,
+            "username": "nee_aesthetics",
+            "pk": "5995432279",
+            "live_broadcast_visibility": null,
+            "live_broadcast_id": null,
+            "profile_pic_url": "https://instagram.fktm10-1.fna.fbcdn.net/v/t51.2885-19/204213894_148315013925796_3299024931524458504_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fktm10-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gHWwM9_fbIAg8wyT4fTF_GJEsKwXMsklfKyfj_U8C7ioqRs34fAwub3IqTD9vsH7_M&_nc_ohc=iO93_cE3ckkQ7kNvwElvQOY&_nc_gid=jnqORLc4g73ecugw1lPcYw&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Af5-h-8RyAr7raKc4vN2RNWB7QO-YFvh37VHfrFbKFHhkQ&oe=6A0160D6&_nc_sid=7d3ac5",
+            "hd_profile_pic_url_info": {
+                "url": "https://instagram.fktm10-1.fna.fbcdn.net/v/t51.2885-19/204213894_148315013925796_3299024931524458504_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fktm10-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gHWwM9_fbIAg8wyT4fTF_GJEsKwXMsklfKyfj_U8C7ioqRs34fAwub3IqTD9vsH7_M&_nc_ohc=iO93_cE3ckkQ7kNvwElvQOY&_nc_gid=jnqORLc4g73ecugw1lPcYw&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Af6IufCTaO_zQ8aFen2bWdhOjJqQScMke3Ffm-XM-wkB4Q&oe=6A0160D6&_nc_sid=7d3ac5"
+            },
+            "is_unpublished": false,
+            "latest_reel_media": 1778073060,
+            "has_profile_pic": null,
+            "profile_pic_genai_tool_info": [],
+            "biography": "\u25ab\ufe0fWeight loss coach\n\u25ab\ufe0f\ud83d\udcaf% Natural Bodybuildr\ud83e\uddec\n\u25ab\ufe0fFoxCities Overall Champ 23\ud83c\udfc6",
+            "full_name": "Olaniyi Oke",
+            "is_verified": false,
+            "show_account_transparency_details": true,
+            "account_type": 2,
+            "follower_count": 21406,
+            "mutual_followers_count": 0,
+            "profile_context_links_with_user_ids": [],
+            "profile_context_facepile_users": [],
+            "address_street": "",
+            "city_name": "",
+            "is_business": true,
+            "zip": "",
+            "biography_with_entities": {
+                "entities": []
+            },
+            "category": "Athlete",
+            "should_show_category": true,
+            "aigm_account_label_info": null,
+            "is_ring_creator": false,
+            "show_ring_award": false,
+            "ring_creator_metadata": {
+                "profile_background_color": null
+            },
+            "account_badges": [],
+            "ai_agent_type": null,
+            "external_lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fnee_aesthetics%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnPfrRlOMUs-JYCc3hcfR1kJoBiRtXz3QaShMPNDpd7qvcR7lg4w2jpSxQi3o_aem_jAY6pnO348rLVxK7R92tHA&e=AUDzEepuUziLoUTDUUIo9QT3-P_fmAiRDYHXiz1uZz38KlvHKxxbhKD_ZmPXGH6fz6CiKQx1oHGSFW9zxTXIOHUT9SBRo3GlPTtqlnWAXQ",
+            "external_url": "https://linktr.ee/nee_aesthetics",
+            "pronouns": [],
+            "transparency_label": null,
+            "transparency_product": null,
+            "hide_creator_marketplace_badge": false,
+            "id": "5995432279",
+            "has_chaining": true,
+            "remove_message_entrypoint": false,
+            "is_embeds_disabled": false,
+            "is_cannes": false,
+            "is_professional_account": null,
+            "following_count": 1762,
+            "media_count": 1227,
+            "total_clips_count": 1,
+            "latest_besties_reel_media": 0,
+            "reel_media_seen_timestamp": null
+        },
+        "viewer": {
+            "user": {
+                "pk": "28773838988",
+                "id": "28773838988",
+                "can_see_organic_insights": false,
+                "supervision_info": {
+                    "is_guardian_user": false,
+                    "is_feta_guardian_user": false,
+                    "guardian_hypercard_content": null,
+                    "id": "XDTSupervisionInfo:28773838988"
+                }
+            }
+        }
+    },
+    "extensions": {
+        "is_final": true,
+        "server_metadata": {
+            "request_start_time_ms": 1778095243656,
+            "time_at_flush_ms": 1778095243814
+        }
+    },
+    "status": "ok"
+}

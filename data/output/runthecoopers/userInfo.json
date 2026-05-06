@@ -1,0 +1,128 @@
+{
+    "data": {
+        "user": {
+            "friendship_status": {
+                "following": false,
+                "blocking": false,
+                "is_feed_favorite": false,
+                "outgoing_request": false,
+                "followed_by": false,
+                "incoming_request": false,
+                "is_restricted": false,
+                "is_bestie": false,
+                "muting": false,
+                "is_muting_reel": false
+            },
+            "gating": null,
+            "fbid_v2": "17841407625829778",
+            "is_memorialized": false,
+            "is_private": false,
+            "has_story_archive": null,
+            "is_coppa_enforced": null,
+            "supervision_info": null,
+            "is_regulated_c18": false,
+            "regulated_news_in_locations": [],
+            "bio_links": [
+                {
+                    "image_url": "",
+                    "is_pinned": false,
+                    "link_type": "external",
+                    "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2FRuntheCoopers%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnKh3nW4hvNzbeRYMxTg_LcQoRTHwGB5_MOLqEV5aAu0ltQWSV3q7D3fyznQY_aem_OrKNjRgqGsR0iRzPZ7iJWA&e=AUA6E6XMI3zBRloQNaAELGf_3v-5w5af5hrEXrVR7i1xlgEh1fuO4QzjHWtdCarxXOfVNgDuY6nEh3BW-5RPk_tKVekqzLXzVfcKWxITRWnzTpmbEhcT0JZ6AQ",
+                    "media_accent_color_hex": "",
+                    "media_type": "none",
+                    "title": "Shop what we use",
+                    "url": "https://linktr.ee/RuntheCoopers",
+                    "creation_source": "NONE"
+                }
+            ],
+            "linked_fb_info": null,
+            "text_post_app_badge_label": "runthecoopers",
+            "show_text_post_app_badge": true,
+            "username": "runthecoopers",
+            "pk": "7518230194",
+            "live_broadcast_visibility": null,
+            "live_broadcast_id": null,
+            "profile_pic_url": "https://instagram.fktm10-1.fna.fbcdn.net/v/t51.2885-19/306351355_151664317546657_2933089095030168875_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fktm10-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gGQGhwTZu69YUWngKzWX45ag7pcU-zt1oE5DYB9Wys_wpSpeoQAftd6RlvRwDDDIyLSErlrMgqga4dfVmaL4AL6&_nc_ohc=mUD7OU0RwiYQ7kNvwH6qzeg&_nc_gid=7FLKhB1BB5tQyd68DUZs3Q&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Af71ZRteUYuu0rZCPghEgHC8dAIHPPy0QUaLdE4erTVNSQ&oe=6A017852&_nc_sid=7d3ac5",
+            "hd_profile_pic_url_info": {
+                "url": "https://instagram.fktm10-1.fna.fbcdn.net/v/t51.2885-19/306351355_151664317546657_2933089095030168875_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fktm10-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gGQGhwTZu69YUWngKzWX45ag7pcU-zt1oE5DYB9Wys_wpSpeoQAftd6RlvRwDDDIyLSErlrMgqga4dfVmaL4AL6&_nc_ohc=mUD7OU0RwiYQ7kNvwH6qzeg&_nc_gid=7FLKhB1BB5tQyd68DUZs3Q&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Af5BIbLQma6xzbWoa6Wn7DEHb88tRdydQa0xa4hNE735Ew&oe=6A017852&_nc_sid=7d3ac5"
+            },
+            "is_unpublished": false,
+            "latest_reel_media": 1778086660,
+            "has_profile_pic": null,
+            "profile_pic_genai_tool_info": [],
+            "biography": "Fitness\u2022Food\u2022Dad Stuff\u2022DIY                                                     Wife @thecurlycoopers\n\ud83d\udce7: curtis@famfluence.com",
+            "full_name": "Curtis Cooper",
+            "is_verified": false,
+            "show_account_transparency_details": true,
+            "account_type": 3,
+            "follower_count": 24192,
+            "mutual_followers_count": 0,
+            "profile_context_links_with_user_ids": [],
+            "profile_context_facepile_users": [],
+            "address_street": "",
+            "city_name": "",
+            "is_business": false,
+            "zip": "",
+            "biography_with_entities": {
+                "entities": [
+                    {
+                        "hashtag": null,
+                        "user": {
+                            "username": "thecurlycoopers",
+                            "id": "411186181"
+                        }
+                    }
+                ]
+            },
+            "category": "Fitness Trainer",
+            "should_show_category": true,
+            "aigm_account_label_info": null,
+            "is_ring_creator": false,
+            "show_ring_award": false,
+            "ring_creator_metadata": {
+                "profile_background_color": null
+            },
+            "account_badges": [],
+            "ai_agent_type": null,
+            "external_lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2FRuntheCoopers%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGn33JQWReI-dXF9nSXhyOj08IWrr7gaJcYWRTXX4KeI6Qel-kJBRNDdb-mQv4_aem_Y1GF4IZ5kqCrLd_DlD3p_w&e=AUBSNfxlCHZBywZiQnZ5tm1jljS0Z_Q1SADUESAMjFkYNphBJlttEJ_oz3QcUVVDgs5ykSn2WcaC88T5SzSNa6clUk2ysonFteBSGKouXEsYLl8WDt2hiFVqRQ",
+            "external_url": "https://linktr.ee/RuntheCoopers",
+            "pronouns": [],
+            "transparency_label": null,
+            "transparency_product": null,
+            "hide_creator_marketplace_badge": false,
+            "id": "7518230194",
+            "has_chaining": true,
+            "remove_message_entrypoint": false,
+            "is_embeds_disabled": false,
+            "is_cannes": false,
+            "is_professional_account": null,
+            "following_count": 106,
+            "media_count": 352,
+            "total_clips_count": 1,
+            "has_visible_media_notes": true,
+            "latest_besties_reel_media": 0,
+            "reel_media_seen_timestamp": null
+        },
+        "viewer": {
+            "user": {
+                "pk": "22127556214",
+                "id": "22127556214",
+                "can_see_organic_insights": false,
+                "supervision_info": {
+                    "is_guardian_user": false,
+                    "is_feta_guardian_user": false,
+                    "guardian_hypercard_content": null,
+                    "id": "XDTSupervisionInfo:22127556214"
+                }
+            }
+        }
+    },
+    "extensions": {
+        "is_final": true,
+        "server_metadata": {
+            "request_start_time_ms": 1778095319703,
+            "time_at_flush_ms": 1778095320022
+        }
+    },
+    "status": "ok"
+}

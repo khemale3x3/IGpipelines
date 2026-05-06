@@ -1,0 +1,120 @@
+{
+    "data": {
+        "user": {
+            "friendship_status": {
+                "following": false,
+                "blocking": false,
+                "is_feed_favorite": false,
+                "outgoing_request": false,
+                "followed_by": false,
+                "incoming_request": false,
+                "is_restricted": false,
+                "is_bestie": false,
+                "muting": false,
+                "is_muting_reel": false
+            },
+            "gating": null,
+            "fbid_v2": "17841401416753077",
+            "is_memorialized": false,
+            "is_private": false,
+            "has_story_archive": null,
+            "is_coppa_enforced": null,
+            "supervision_info": null,
+            "is_regulated_c18": false,
+            "regulated_news_in_locations": [],
+            "bio_links": [
+                {
+                    "image_url": "https://scontent.fktm7-1.fna.fbcdn.net/v/t51.71878-15/650107224_1415191007047007_1343801844630168801_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=fb44d9&_nc_ohc=AUDRVFml3_MQ7kNvwH2bADI&_nc_oc=AdpZ_rxKdYMODnc4EDzjGWRFWyQs40DTiL4JY2cg8SRJLzbEMMUqImczBCjeDPtyRFIOqBDXsG9nPhm2Z-0xFikS&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fktm7-1.fna&_nc_gid=pnHeku3lUXoMQ9PFm3nthw&_nc_ss=7b22e&oh=00_Af5g7tqRAq1c-wOUZqjtg5T2aojkLdFZaIjGxVSerlBPOw&oe=6A015985",
+                    "is_pinned": false,
+                    "link_type": "external",
+                    "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Ftinyurl.com%2Fyeyh3jpw%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnbehQK8eava4CKG13AJEUBzZNocLTky7Q-UltDmt6zJv_BbS0ljl8SEs1s7g_aem_CthpZNdoPeu7Ny0VdwFrHw&e=AUCi5_3LRutyOGmHV0QFQXe8VtkXpu1IVU_6r5n8UGk-JdR2RngUKWqF-iw1jI_p8Cw8az1pz44zbwkRfbCCOh7UCLg_KOiD2hy5X3EbN5hM1S6-cCnfLAJhUw",
+                    "media_accent_color_hex": "",
+                    "media_type": "image",
+                    "title": "Results",
+                    "url": "https://tinyurl.com/yeyh3jpw",
+                    "creation_source": "NONE"
+                }
+            ],
+            "linked_fb_info": null,
+            "text_post_app_badge_label": "miguel___delarosa",
+            "show_text_post_app_badge": true,
+            "username": "miguel___delarosa",
+            "pk": "196975225",
+            "live_broadcast_visibility": null,
+            "live_broadcast_id": null,
+            "profile_pic_url": "https://instagram.fktm10-1.fna.fbcdn.net/v/t51.2885-19/342268060_898575601367551_3683278722111229077_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDE0LmMyIn0&_nc_ht=instagram.fktm10-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gH0c2S2q9Pe-WrIa5dpiDKIy5LI1A20TCaIhF-zBFxrCtTZmUVHbIQcvoUqgETeaxA21j2r36Fa3CpeGD765GRJ&_nc_ohc=go2orWz1-bQQ7kNvwG-Vwai&_nc_gid=pnHeku3lUXoMQ9PFm3nthw&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Af40KisTMApvBB637Rr5c2ofjidn3n5m5WkqsJTfC16yPQ&oe=6A0156E3&_nc_sid=7d3ac5",
+            "hd_profile_pic_url_info": {
+                "url": "https://instagram.fktm10-1.fna.fbcdn.net/v/t51.2885-19/342268060_898575601367551_3683278722111229077_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDE0LmMyIn0&_nc_ht=instagram.fktm10-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gH0c2S2q9Pe-WrIa5dpiDKIy5LI1A20TCaIhF-zBFxrCtTZmUVHbIQcvoUqgETeaxA21j2r36Fa3CpeGD765GRJ&_nc_ohc=go2orWz1-bQQ7kNvwG-Vwai&_nc_gid=pnHeku3lUXoMQ9PFm3nthw&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Af47nC96p3Vf3cPCQPBoA6tZzoEQqyr2tE2nJpDg3LaJzA&oe=6A0156E3&_nc_sid=7d3ac5"
+            },
+            "is_unpublished": false,
+            "latest_reel_media": 1778090229,
+            "has_profile_pic": null,
+            "profile_pic_genai_tool_info": [],
+            "biography": "\ud83d\udcc8I help Busy men and women drop 15-25lbs in 90 days. \n\ud83c\udfc6 Get Results \ud83d\udc47\ud83c\udffc",
+            "full_name": "Miguel De La Rosa",
+            "is_verified": true,
+            "show_account_transparency_details": true,
+            "account_type": 2,
+            "follower_count": 24630,
+            "mutual_followers_count": 0,
+            "profile_context_links_with_user_ids": [],
+            "profile_context_facepile_users": [],
+            "address_street": "",
+            "city_name": "",
+            "is_business": true,
+            "zip": "",
+            "biography_with_entities": {
+                "entities": []
+            },
+            "category": "Entrepreneur",
+            "should_show_category": true,
+            "aigm_account_label_info": null,
+            "is_ring_creator": false,
+            "show_ring_award": false,
+            "ring_creator_metadata": {
+                "profile_background_color": null
+            },
+            "account_badges": [],
+            "ai_agent_type": null,
+            "external_lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Ftinyurl.com%2Fyeyh3jpw%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGn9D-LlvMdeVaGrocnK1qjymECu5YM2AGZcO2GW-deEovNWsF_gswBhtf_mko_aem_JlP1vlJV2R6ZMKOpGq329g&e=AUBOlzlRZha6yyc93Imb5jlQdSc5oBVhwXF6BDFSeC2hvcRuEMq97QOkVMnO3TS8PbaGjiy5YdBVwQmz2bsZrthQ1q2GMUqHRT1d7DtNMNgF2E3OwXpsBAmHrw",
+            "external_url": "https://tinyurl.com/yeyh3jpw",
+            "pronouns": [],
+            "transparency_label": null,
+            "transparency_product": null,
+            "hide_creator_marketplace_badge": false,
+            "id": "196975225",
+            "has_chaining": true,
+            "remove_message_entrypoint": false,
+            "is_embeds_disabled": false,
+            "is_cannes": false,
+            "is_professional_account": null,
+            "following_count": 581,
+            "media_count": 1553,
+            "total_clips_count": 1,
+            "has_visible_media_notes": true,
+            "latest_besties_reel_media": 0,
+            "reel_media_seen_timestamp": null
+        },
+        "viewer": {
+            "user": {
+                "pk": "79094843931",
+                "id": "79094843931",
+                "can_see_organic_insights": false,
+                "supervision_info": {
+                    "is_guardian_user": false,
+                    "is_feta_guardian_user": false,
+                    "guardian_hypercard_content": null,
+                    "id": "XDTSupervisionInfo:79094843931"
+                }
+            }
+        }
+    },
+    "extensions": {
+        "is_final": true,
+        "server_metadata": {
+            "request_start_time_ms": 1778095150344,
+            "time_at_flush_ms": 1778095150556
+        }
+    },
+    "status": "ok"
+}

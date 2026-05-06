@@ -1,0 +1,12 @@
+colorama>=0.4.6
+tqdm>=4.66.0
+ijson>=3.2.3
+# Optional adapters (only needed for the Selenium scraper):
+selenium>=4.20.0
+requests>=2.31.0
+pandas>=2.0.0
+psutil>=5.9.0
+# Optional dev/runtime helpers
+python-dotenv>=1.0.0
+# Tests:
+pytest>=7.4.0

@@ -1,0 +1,135 @@
+{
+    "data": {
+        "user": {
+            "friendship_status": {
+                "following": false,
+                "blocking": false,
+                "is_feed_favorite": false,
+                "outgoing_request": false,
+                "followed_by": false,
+                "incoming_request": false,
+                "is_restricted": false,
+                "is_bestie": false,
+                "muting": false,
+                "is_muting_reel": false
+            },
+            "gating": null,
+            "fbid_v2": "17841401045260155",
+            "is_memorialized": false,
+            "is_private": false,
+            "has_story_archive": null,
+            "is_coppa_enforced": null,
+            "supervision_info": null,
+            "is_regulated_c18": false,
+            "regulated_news_in_locations": [],
+            "bio_links": [
+                {
+                    "image_url": "",
+                    "is_pinned": false,
+                    "link_type": "external",
+                    "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fbeacons.page%2Fits.deewilly%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnwZSqEgYQUKrFh6C5msGNJaixGFtwRBNODdzez5BITEMg7eQFsDH3WGAwCXk_aem_nHJwPIqWeXabGR3WjjT6yg&e=AUA8sTHgaFcTI6_fIBQf5M4LvGeOjRHkFXjg4_OduxLmUQVD174u5DWF4vzGjVCW7KKPXzKM3PP_BosM0rwZT5Aw1wUrWY9j1Jy8JP1tbS3QOKXsP4ZDIThyuw",
+                    "media_accent_color_hex": "",
+                    "media_type": "none",
+                    "title": "Beacons",
+                    "url": "https://beacons.page/its.deewilly",
+                    "creation_source": "NONE"
+                }
+            ],
+            "linked_fb_info": null,
+            "text_post_app_badge_label": "its.deewilly",
+            "show_text_post_app_badge": false,
+            "username": "its.deewilly",
+            "pk": "9954842",
+            "live_broadcast_visibility": null,
+            "live_broadcast_id": null,
+            "profile_pic_url": "https://instagram.fktm7-1.fna.fbcdn.net/v/t51.82787-19/650028525_18570668113034843_787241846782339577_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fktm7-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gH46ZETklCjoD5HKvtiX-v7F9DyF_IXDLUDEuF0TrcGAzuvVf3KXrpEeV24wE2spYqKTzXXU8a9dfNGsqWmgYQn&_nc_ohc=eRjWK4mBZc0Q7kNvwHcoKah&_nc_gid=F32S8GyJzgGRVeRx4x5Ngg&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Af6aRjqfumXk4VBO9gm21ZidcS75bGDEc1RNfeE3cL7HXQ&oe=6A016AEC&_nc_sid=7d3ac5",
+            "hd_profile_pic_url_info": {
+                "url": "https://instagram.fktm7-1.fna.fbcdn.net/v/t51.82787-19/650028525_18570668113034843_787241846782339577_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fktm7-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gH46ZETklCjoD5HKvtiX-v7F9DyF_IXDLUDEuF0TrcGAzuvVf3KXrpEeV24wE2spYqKTzXXU8a9dfNGsqWmgYQn&_nc_ohc=eRjWK4mBZc0Q7kNvwHcoKah&_nc_gid=F32S8GyJzgGRVeRx4x5Ngg&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Af41zN1K1ru2egMWUZe1S7She163ipvcR5R8Pd9ufHRHjw&oe=6A016AEC&_nc_sid=7d3ac5"
+            },
+            "is_unpublished": false,
+            "latest_reel_media": 1778036112,
+            "has_profile_pic": null,
+            "profile_pic_genai_tool_info": [],
+            "biography": "Fitness | Performance Grooming | Tech\nStudying French \ud83c\uddeb\ud83c\uddf7\n@fableticsmen @prosupps Athlete | DARRYL10",
+            "full_name": "Darryl Williams | MENS WELLNESS",
+            "is_verified": true,
+            "show_account_transparency_details": true,
+            "account_type": 3,
+            "follower_count": 24027,
+            "mutual_followers_count": 0,
+            "profile_context_links_with_user_ids": [],
+            "profile_context_facepile_users": [],
+            "address_street": "",
+            "city_name": "",
+            "is_business": false,
+            "zip": "",
+            "biography_with_entities": {
+                "entities": [
+                    {
+                        "hashtag": null,
+                        "user": {
+                            "username": "fableticsmen",
+                            "id": "16845800897"
+                        }
+                    },
+                    {
+                        "hashtag": null,
+                        "user": {
+                            "username": "prosupps",
+                            "id": "199820273"
+                        }
+                    }
+                ]
+            },
+            "category": "Athlete",
+            "should_show_category": true,
+            "aigm_account_label_info": null,
+            "is_ring_creator": false,
+            "show_ring_award": false,
+            "ring_creator_metadata": {
+                "profile_background_color": null
+            },
+            "account_badges": [],
+            "ai_agent_type": null,
+            "external_lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fbeacons.page%2Fits.deewilly%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnGknMWL5wxn0s5H8KWq_9oFR5-ZYxo3uqcGY4wTFyiAh-MFf5pta1dazJoLE_aem_f33WseBLBYqIsoN0XO3Mrg&e=AUCthsdHyj2hU1AM3Dlm0gV0RfDB_oNYDV7wsaz45itQwjDJGwKKdlnvhyMFiKsO5wlqxtepBXZqhs0sVpD7i44gHi2LSelchEJPop8cXGxLlVnpXqOTx45tXA",
+            "external_url": "https://beacons.page/its.deewilly",
+            "pronouns": [],
+            "transparency_label": null,
+            "transparency_product": null,
+            "hide_creator_marketplace_badge": false,
+            "id": "9954842",
+            "has_chaining": true,
+            "remove_message_entrypoint": false,
+            "is_embeds_disabled": false,
+            "is_cannes": false,
+            "is_professional_account": null,
+            "following_count": 5924,
+            "media_count": 140,
+            "total_clips_count": 1,
+            "has_visible_media_notes": true,
+            "latest_besties_reel_media": 0,
+            "reel_media_seen_timestamp": null
+        },
+        "viewer": {
+            "user": {
+                "pk": "22615843742",
+                "id": "22615843742",
+                "can_see_organic_insights": false,
+                "supervision_info": {
+                    "is_guardian_user": false,
+                    "is_feta_guardian_user": false,
+                    "guardian_hypercard_content": null,
+                    "id": "XDTSupervisionInfo:22615843742"
+                }
+            }
+        }
+    },
+    "extensions": {
+        "is_final": true,
+        "server_metadata": {
+            "request_start_time_ms": 1778094965441,
+            "time_at_flush_ms": 1778094965846
+        }
+    },
+    "status": "ok"
+}

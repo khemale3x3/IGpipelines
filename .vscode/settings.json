@@ -1,0 +1,10 @@
+{
+	"python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+	"python.analysis.extraPaths": [
+		"${workspaceFolder}"
+	],
+	"python.analysis.diagnosticMode": "workspace",
+	"files.readonlyInclude": {
+		"{**/.c4z/.extsrcs/*.PROTSYM.cbl,**/.c4z/.extsrcs/*.PROTSYM.listing}": true
+	}
+}

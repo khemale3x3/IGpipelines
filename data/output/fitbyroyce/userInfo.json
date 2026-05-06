@@ -1,0 +1,147 @@
+{
+    "data": {
+        "user": {
+            "friendship_status": {
+                "following": false,
+                "blocking": false,
+                "is_feed_favorite": false,
+                "outgoing_request": false,
+                "followed_by": false,
+                "incoming_request": false,
+                "is_restricted": false,
+                "is_bestie": false,
+                "muting": false,
+                "is_muting_reel": false
+            },
+            "gating": null,
+            "fbid_v2": "17841402431250936",
+            "is_memorialized": false,
+            "is_private": false,
+            "has_story_archive": null,
+            "is_coppa_enforced": null,
+            "supervision_info": null,
+            "is_regulated_c18": false,
+            "regulated_news_in_locations": [],
+            "bio_links": [
+                {
+                    "image_url": "",
+                    "is_pinned": false,
+                    "link_type": "external",
+                    "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fjoin.fitbyroyce.net%2F%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnMpUeQWq-sY4EeVDhCdjfu3nx97iq5xiilfQ6yzKB-QCcpYMc_v1MTjVzrOo_aem_0Ox7cEuz73QFqqKJlnqDeg&e=AUCneaZU4L2cnWAbU68UhJLiACrhB8il6C8rUQKwde1IPMGH4wTkNC7i_3tVQSgqOCP-U5HOvaA68oG_QwwEETkbgvaoiGYPc1hsuMYSKA",
+                    "media_accent_color_hex": "",
+                    "media_type": "none",
+                    "title": "Sign Up",
+                    "url": "https://join.fitbyroyce.net/",
+                    "creation_source": "NONE"
+                },
+                {
+                    "image_url": "",
+                    "is_pinned": false,
+                    "link_type": "facebook_page",
+                    "lynx_url": "",
+                    "media_accent_color_hex": "",
+                    "media_type": "none",
+                    "title": "",
+                    "url": "",
+                    "creation_source": "PROFILE_EDIT"
+                },
+                {
+                    "image_url": "",
+                    "is_pinned": false,
+                    "link_type": "external",
+                    "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fep-nutrition.com%2F%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnpGcgJz40E278lIaidU89QvL1TL_eBQZzMhrPecci5GaFQ0ydafq5AiD-O60_aem_emEqz9WDYokTgKzrJjK6Xg&e=AUDJAJVSlNULizIITgGJKE2788SF4hPA7bfMXzIKIFZC1vUHVMS4IjrZgfKq5_ZGs3WDGKhIGiTY9s1ZiY45xFLBNkehxGKU7bVx0WOs_g",
+                    "media_accent_color_hex": "",
+                    "media_type": "none",
+                    "title": "EPN SUPPS",
+                    "url": "https://ep-nutrition.com/",
+                    "creation_source": "NONE"
+                }
+            ],
+            "linked_fb_info": {
+                "linked_fb_page": {
+                    "name": "FiT By Royce",
+                    "id": "444095252446979"
+                },
+                "linked_fb_user": null
+            },
+            "text_post_app_badge_label": null,
+            "show_text_post_app_badge": false,
+            "username": "fitbyroyce",
+            "pk": "2567489041",
+            "live_broadcast_visibility": null,
+            "live_broadcast_id": null,
+            "profile_pic_url": "https://instagram.fktm7-1.fna.fbcdn.net/v/t51.82787-19/658162838_18388931797081042_9030579129139448709_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fktm7-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gEwksUTDQ423lGlZo-VYcqTtVI7IHg_rE3JfA2wiPHjWZBLnTTp3e2Yv5kzyVlOwt0&_nc_ohc=_iNVlBtqPC0Q7kNvwF2sYI3&_nc_gid=mgznaltNng_xZJquR4PIRg&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Af4Ks-GGTzNzX8pV6buACohOigQxK0rG9QZ1Xkjjdrsi7g&oe=6A0174AF&_nc_sid=7d3ac5",
+            "hd_profile_pic_url_info": {
+                "url": "https://instagram.fktm7-1.fna.fbcdn.net/v/t51.82787-19/658162838_18388931797081042_9030579129139448709_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fktm7-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gEwksUTDQ423lGlZo-VYcqTtVI7IHg_rE3JfA2wiPHjWZBLnTTp3e2Yv5kzyVlOwt0&_nc_ohc=_iNVlBtqPC0Q7kNvwF2sYI3&_nc_gid=mgznaltNng_xZJquR4PIRg&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Af63vOCqCpSoqiw9GXTiFF569RF2l55gX6YBmV5qjzvjqQ&oe=6A0174AF&_nc_sid=7d3ac5"
+            },
+            "is_unpublished": false,
+            "latest_reel_media": 1778035911,
+            "has_profile_pic": null,
+            "profile_pic_genai_tool_info": [],
+            "biography": "\ud83d\ude4f\ud83c\udffdGod\n\ud83d\ude4b\ud83c\udffe\u200d\u2642\ufe0fHelping busy believers in Christ find time to TRANSFORM mind and physique in 90 Days using my Blueprint\n\ud83d\udd38\ufe0fDM me NOW or apply below\u2b07\ufe0f",
+            "full_name": "F.i.T (Focus on inner Transformation)",
+            "is_verified": false,
+            "show_account_transparency_details": true,
+            "account_type": 3,
+            "follower_count": 13017,
+            "mutual_followers_count": 0,
+            "profile_context_links_with_user_ids": [],
+            "profile_context_facepile_users": [],
+            "address_street": "",
+            "city_name": "",
+            "is_business": false,
+            "zip": "",
+            "biography_with_entities": {
+                "entities": []
+            },
+            "category": "Personal Coach",
+            "should_show_category": true,
+            "aigm_account_label_info": null,
+            "is_ring_creator": false,
+            "show_ring_award": false,
+            "ring_creator_metadata": {
+                "profile_background_color": null
+            },
+            "account_badges": [],
+            "ai_agent_type": null,
+            "external_lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fjoin.fitbyroyce.net%2F%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnDvAe3Yq90-7ck0dRgClBY1az1Wee_J86inv_W_sj2SGq869blPLMfZGdG-I_aem_FpdRI2dbRi4w859TjflA2w&e=AUDU10bSmbakW-gb2hwiYHqkfuod6y2QDkpbfRd4ditKBNJ9pzzaMiOvdDsOucaxtaZuh9IgpmtzCX8Y9TfexKA1Y6F92f7-lW1CJzklSQ",
+            "external_url": "https://join.fitbyroyce.net/",
+            "pronouns": [],
+            "transparency_label": null,
+            "transparency_product": null,
+            "hide_creator_marketplace_badge": false,
+            "id": "2567489041",
+            "has_chaining": true,
+            "remove_message_entrypoint": false,
+            "is_embeds_disabled": false,
+            "is_cannes": false,
+            "is_professional_account": null,
+            "following_count": 3794,
+            "media_count": 708,
+            "total_clips_count": 1,
+            "latest_besties_reel_media": 0,
+            "reel_media_seen_timestamp": null
+        },
+        "viewer": {
+            "user": {
+                "pk": "28773838988",
+                "id": "28773838988",
+                "can_see_organic_insights": false,
+                "supervision_info": {
+                    "is_guardian_user": false,
+                    "is_feta_guardian_user": false,
+                    "guardian_hypercard_content": null,
+                    "id": "XDTSupervisionInfo:28773838988"
+                }
+            }
+        }
+    },
+    "extensions": {
+        "is_final": true,
+        "server_metadata": {
+            "request_start_time_ms": 1778094998877,
+            "time_at_flush_ms": 1778094999211
+        }
+    },
+    "status": "ok"
+}
